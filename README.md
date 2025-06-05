@@ -1,2 +1,2 @@
 # rsei
-Calculate the RSEI remote sensing index using Python
+Principal component analysis of WET, LST, NDBSI, NDVI using Python to calculate RSEI
